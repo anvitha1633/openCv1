@@ -1,0 +1,26 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "My Application27"
+include ':app'
+
+include ':java'
+include ':java'
+include ':opencv2'
+include ':java'
+include ':openCv2'
+include ':opencv'
+include ':openCV'
+include ':java'
+include ':java3'
